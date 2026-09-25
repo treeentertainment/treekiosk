@@ -1,3 +1,3 @@
-## Sunsetting TREE KIOSK <strong>V4</strong>
+# Sunsetting TREE KIOSK <strong>V4</strong>
 
-See: treekiosk.pages.dev
+See: [treekiosk.pages.dev](https://treekiosk.pages.dev/goodbye)
